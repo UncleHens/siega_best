@@ -8,7 +8,7 @@ $data = mysqli_fetch_array($query);
 <html lang="id">
 <head>
     <title>Edit Dosen</title>
-    <link rel="stylesheet" href="../asset/css/style.css">
+    <link rel="stylesheet" href="../asset/css/crud.css">
 </head>
 <body style="background: #f3f4f6;">
     <div class="login-container" style="max-width: 800px; margin-top: 50px;">

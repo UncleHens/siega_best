@@ -3,7 +3,7 @@
 <html lang="id">
 <head>
     <title>Tambah Dosen</title>
-    <link rel="stylesheet" href="../asset/css/style.css">
+    <link rel="stylesheet" href="../asset/css/crud.css">
 </head>
 <body style="background: #f3f4f6;"> <div class="login-container" style="max-width: 800px; margin-top: 50px;">
         <div class="login-header">
