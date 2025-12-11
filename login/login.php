@@ -37,7 +37,7 @@ if(isset($_POST['login'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login - Portal Staff SIEGA</title>
-    <link rel="stylesheet" href="../asset/css/style.css">
+    <link rel="stylesheet" href="../asset/css/login.css">
 </head>
 <body>
     <a href="index.php" class="back-button">
@@ -112,7 +112,7 @@ if(isset($_POST['login'])) {
             <div class="login-footer">
                 <p>Lupa password? Hubungi Administrator IT.</p>
                 <div class="demo-credentials">
-                    Demo Credentials: admin / admin
+                    Demo Credentials: admin / admin123
                 </div>
             </div>
         </div>
