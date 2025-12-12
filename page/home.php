@@ -35,25 +35,25 @@
         <div class="card">
           <h3>Sistem Informasi</h3>
           <p>Enterprise Systems & Big Data</p>
-          <span class="link">Selengkapnya →</span>
+          <a href="detail_program.php?program=sistem-informasi" class="link">Selengkapnya →</a>
         </div>
 
         <div class="card">
           <h3>Game Technology</h3>
           <p>Virtual Reality, Augmented Reality & Game Dev</p>
-          <span class="link">Selengkapnya →</span>
+          <a href="detail_program.php?program=game-technology" class="link">Selengkapnya →</a>
         </div>
 
         <div class="card">
           <h3>E-Commerce</h3>
           <p>Digital Business Strategy & Startup</p>
-          <span class="link">Selengkapnya →</span>
+          <a href="detail_program.php?program=e-commerce" class="link">Selengkapnya →</a>
         </div>
 
         <div class="card">
           <h3>Akuntansi + SI</h3>
           <p>Fintech & Information Systems Audit</p>
-          <span class="link">Selengkapnya →</span>
+          <a href="detail_program.php?program=akuntansi-si" class="link">Selengkapnya →</a>
         </div>
       </div>
     </section>

@@ -44,7 +44,7 @@
                         <a class="nav-link" href="dosen.php"><i class="bi bi-people me-1"></i> Dosen</a>
                     </li>
                     <li class="nav-item mx-2">
-                        <a class="nav-link" href="#"><i class="bi bi-calendar-event me-1"></i> Aktivitas</a>
+                        <a class="nav-link" href="aktivitas.php"><i class="bi bi-calendar-event me-1"></i> Aktivitas</a>
                     </li>
                     <li class="nav-item mx-2">
                         <a class="nav-link" href="biaya.php"><i class="bi bi-cash-coin me-1"></i> Biaya</a>
